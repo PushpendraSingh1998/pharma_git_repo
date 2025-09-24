@@ -1,0 +1,16 @@
+drug_id,drug_name,generic_name,manufacturer,dosage_form,strength_mg,price_inr,approval_date,expiry_date,batch_number,quantity_in_stock,therapeutic_area,prescription_required,atc_code,storage_temp_c
+D001,Panadol,Paracetamol,GSK,Tablet,500,25.0,2005-03-12,2027-06-30,BND1001,1200,Analgesic/Antipyretic,No,N02BE01,15-25
+D002,Augmentin,Amoxicillin/Clavulanic acid,GSK,Tablet,625,80.0,2010-05-20,2026-11-15,AMX2024,450,Antibiotic,Yes,J01CR02,15-25
+D003,Eliquis,Apixaban,Bristol-Myers Squibb,Tablet,5,450.0,2012-09-10,2028-02-28,APX558,200,Anticoagulant,Yes,B01AF02,15-25
+D004,Lipitor,Atorvastatin,Pfizer,Tablet,20,150.0,2003-02-14,2026-09-30,ATV309,800,Lipid-lowering,Yes,C10AA05,15-25
+D005,Ventolin,Salbutamol,GlaxoSmithKline,Inhaler,100,220.0,2008-08-01,2026-12-31,SALB77,350,Bronchodilator,No,R03AC02,15-30
+D006,Metformin XR,Metformin,Sun Pharma,Tablet,500,40.0,2000-01-15,2027-03-31,MET500X,1500,Antidiabetic,Yes,A10BA02,15-25
+D007,Ciplox,Ciprofloxacin,Cipla,Tablet,500,55.0,2006-07-05,2025-11-30,CIPX500,600,Antibiotic,Yes,J01MA02,15-25
+D008,Diclofenac SR,Diclofenac Sodium,Novartis,Tablet,100,30.0,2004-10-11,2026-05-20,DIC100SR,900,NSAID,No,M01AB05,15-25
+D009,Omeprazole,Omeprazole,Dr Reddy's,Capsule,20,18.0,1999-04-21,2025-09-30,OM20RD,1300,Proton pump inhibitor,No,A02BC01,15-25
+D010,Humira,Adalimumab,AbbVie,Prefilled syringe,40,35000.0,2014-06-18,2027-10-31,ADA4001,25,Biologic - Immunomodulator,Yes,L04AB04,2-8
+D011,Amaryl,Glimepiride,Sanofi,Tablet,2,35.0,2001-12-09,2026-07-15,GLM2,700,Antidiabetic,Yes,A10BB12,15-25
+D012,Zyrtec,Cetirizine,Johnson & Johnson,Tablet,10,12.0,1998-03-04,2025-12-31,CET10JJ,2000,Antihistamine,No,R06AE07,15-25
+D013,T. Levothyroxine,Levothyroxine,Mylan,Tablet,50,90.0,1995-05-30,2026-04-30,LEV50M,400,Thyroid hormone,Yes,H03AA01,15-25
+D014,Xarelto,Rivaroxaban,Janssen,Tablet,10,320.0,2011-11-22,2028-01-31,RIV10J,180,Anticoagulant,Yes,B01AF01,15-25
+D015,Salbutamol Syrup,Salbutamol,Cipla,Syrup,2,45.0,2007-02-14,2026-08-31,SALB-SYP,520,Bronchodilator,No,R03AC02,15-30
