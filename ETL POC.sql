@@ -53,4 +53,4 @@ Select * from STG_PHARMA
 CALL SP_LOAD_GOLD_PHARMA();
 SELECT * FROM GOLD_PHARMA;
 
-
+--adding comments 
